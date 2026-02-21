@@ -51,7 +51,7 @@ Access to the configuration panel is restricted by a login portal.
 ### Configuration Panel
 Once logged in, you can configure Network modes (AP, Client, Both, Off), Modbus Serial settings (Baud rate, Parity, Stop bits), and view live IP/MAC addresses. 
 
-![iSAFE Configuration Panel](iSAFE Configuration Panel.jpeg)
+![iSAFE Configuration Panel](iSAFEConfigurationPanel.jpeg)
 
 ---
 
