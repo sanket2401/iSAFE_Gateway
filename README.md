@@ -62,10 +62,6 @@ The Modbus memory is strictly divided into two distinct blocks to ensure data in
 2. **Read/Write Config Block (`41001 - 41200`):** Used to stage new configurations. 
 3. **Trigger (`41110`):** Writing a `1` to this register forces the ESP32 to save the `41000` block to flash memory and reboot.
 
-### Text (ASCII) Encoding
-Strings (like SSIDs and Passwords) are stored as **1 Character per Register**. In your Modbus testing tool, change the Display Format from `UInt16` to `ASCII/String` to read the text.
-
-![Modbus Tool Register View](image_6cf05b.png)
 
 ### Complete Register Map
 
