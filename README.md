@@ -46,7 +46,7 @@ Access to the configuration panel is restricted by a login portal.
 * **Default Username:** `isafeadmin`
 * **Default Password:** `isafe@[Last 4 characters of MAC]` *(e.g., if MAC ends in 09:88, password is `isafe@0988`)*
 
-![iSAFE Login Page](image_ccc738.png)
+![iSAFE Login Page](login.png)
 
 ### Configuration Panel
 Once logged in, you can configure Network modes (AP, Client, Both, Off), Modbus Serial settings (Baud rate, Parity, Stop bits), and view live IP/MAC addresses. 
